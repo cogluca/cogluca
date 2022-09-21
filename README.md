@@ -27,3 +27,9 @@ Nice to meet you, I'm Gianluca
 - 🧐 Something that I'm deeply interested in is: how will this web3 thing play out, will it fizzle out ? will it define the next 20 years ? Will we live in completely disrupted societies as it has happened with the advent of of dynamic pages, Web2 and mobile technologies ? How will creators navigate this landscape ? Will we all become networked small businesses in a tail end of the market where giants reign supreme as platforms ? So many questions for the future ahead.
 
 - ✉️ You can find me at cog.gianluca@gmail.com
+
+## Tech stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
